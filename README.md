@@ -6,3 +6,4 @@ todo list
 4. jwt(25%)
 5. webpack路径，webSite为例路径设置
 6. dotenv
+7. [reactive programming](http://blog.leapoahead.com/2016/03/02/introduction-to-reactive-programming/)
