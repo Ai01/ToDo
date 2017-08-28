@@ -12,5 +12,7 @@ todo list
 18. docker的基本使用
 1. openvpn搭建
 14. 做一个node的股票爬虫
+18. 看完webpack和babel的官网
 15. 实现一个webpack
 16. google translate in terminal
+17. github pages
