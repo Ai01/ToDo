@@ -21,6 +21,7 @@
 18. 看完webpack和babel的官网
 15. 实现一个webpack
 17. github pages
+18. require.js的研究
 
 
 ## 网络
