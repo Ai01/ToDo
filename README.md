@@ -1,34 +1,56 @@
 # ToDo
 
-## 项目
+## 开源项目
 
 1. google translate in terminal
 
 ## 技术探索
 
-4. jwt(25%)
-6. dotenv(50%)
-7. [reactive programming](http://blog.leapoahead.com/2016/03/02/introduction-to-reactive-programming/)
-8. koa
-12. 个人网站(relay,graphql)
-13. 利用cluster和siege来做一个集群服务和压力测试
-15. 服务端渲染与react的集成：nextjs和https://github.com/chikara-chan/react-isomorphic-boilerplate
-16. relay modern
-17. wireshark
-18. docker的基本使用
-1. openvpn搭建
-14. 做一个node的股票爬虫
-18. 看完webpack和babel的官网
-15. 实现一个webpack
-17. github pages
-18. require.js的研究
+1. jwt(25%)
+2. dotenv(50%)
+3. [reactive programming](http://blog.leapoahead.com/2016/03/02/introduction-to-reactive-programming/)
+4. koa
+5. 利用cluster和siege来做一个集群服务和压力测试
+6. 服务端渲染与react的集成：nextjs和https://github.com/chikara-chan/react-isomorphic-boilerplate
+7. relay modern
+8. openvpn搭建
+9. 做一个node的股票爬虫
+10. docker
+11. cycle.js
+12. rx
+13. pwa webapp研究,
 
+> 重点是pwa的性能和体验相对于web的提升和对比,pwa的是web应用的一个方向，需要对比pwa在web网页，web app上的不同之处和性能提升。
+14. 交换机
+15. chrome performance使用
+
+
+
+## 技术研究
+
+1. 看完webpack,babel和eslint的官网
+2. 理解webpack的原理
+3. react-router的原理
+4. react的基本原理
+5. redux
+6. wireshark
+> 理解网络5层模型，学会使用wireshark过滤
+
+## 技术深入
+
+1. require.js的研究,
+
+>  重点是js模块化实现,要从js模块化的历史开始研究，直到webpack。先研究require.js是因为webpack大而全，不适合研究模块化。
+
+
+
+# 基础
 
 ## 网络
 
-1. 交换机
-2. 路由
-3. wireshark
+1. tcp/ip详解
+2. 路由协议
+
 
 ## 基本功
 
