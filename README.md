@@ -54,9 +54,9 @@
 
 ## 基本功
 
-1. 设计模式(javascript设计模式)
-2. 算法(javascript实现)
+1. 设计模式(javascript设计模式,一个月)
+2. 算法(javascript实现,一个月)
 3. 数据库(mysql)
-4. 操作系统(linux)
-5. 网络协议
+4. 操作系统(linux,操作系统的基本知识)
+5. 网络协议(wireshark使用)
 5. english
