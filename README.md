@@ -3,6 +3,7 @@
 ## 开源项目
 
 1. google translate in terminal
+2. 从不坐过站(百度定位sdk，地铁站到站提醒)
 
 ## 技术探索
 
