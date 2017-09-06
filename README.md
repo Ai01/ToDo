@@ -24,6 +24,7 @@
 > 重点是pwa的性能和体验相对于web的提升和对比,pwa的是web应用的一个方向，需要对比pwa在web网页，web app上的不同之处和性能提升。
 14. 交换机
 15. chrome performance使用
+16. lodash使用
 
 
 
