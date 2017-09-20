@@ -4,6 +4,7 @@
 
 1. google translate in terminal
 2. 从不坐过站(百度定位sdk，地铁站到站提醒)
+3. 写一个自动改变网页背景色的chrome插件
 
 ## 技术探索
 
@@ -26,6 +27,8 @@
 15. chrome performance使用
 16. lodash使用
 17. react tree实现
+18. 节流函数，去抖动函数
+19. mouse事件
 
 
 
