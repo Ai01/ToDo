@@ -20,17 +20,13 @@
 10. docker
 11. cycle.js
 12. rx
-13. pwa webapp研究,
-
-> 重点是pwa的性能和体验相对于web的提升和对比,pwa的是web应用的一个方向，需要对比pwa在web网页，web app上的不同之处和性能提升。
+13. pwa webapp研究,重点是pwa的性能和体验相对于web的提升和对比,pwa的是web应用的一个方向，需要对比pwa在web网页，web app上的不同之处和性能提升。
 14. 交换机
 15. chrome performance使用
 16. lodash使用
 17. react tree实现
 18. 节流函数，去抖动函数
 19. mouse事件
-20. git tag
-21. git flow
 
 
 
