@@ -5,6 +5,7 @@
 1. google translate in terminal
 2. 从不坐过站(百度定位sdk，地铁站到站提醒)
 3. 写一个自动改变网页背景色的chrome插件
+4. 写一个改变变量类型的npm包
 
 ## 技术探索
 
