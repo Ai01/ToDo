@@ -67,7 +67,7 @@
 
 1. 设计模式(javascript设计模式,一个月)(50%)
 2. 算法(javascript实现,一个月)(50%)
-3. 数据库(mysql)(5%)
+3. 数据库(mysql,闭包表)(5%)
 4. 操作系统(linux,操作系统的基本知识)
 5. 网络协议(wireshark使用)
 5. english
