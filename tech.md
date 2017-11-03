@@ -18,6 +18,7 @@
 6. 做一个node的股票爬虫
 7. 图书馆管理系统(orm,mysql使用)
 8. mac古诗词桌面软件
+9. 实现react-router-redux
 
 
 
@@ -55,6 +56,7 @@
 6. wireshark理解网络5层模型，学会使用wireshark过滤(5%)
 7. 函数式编程和面向对象编程的比较
 8. indexDB
+9. go in action 的阅读和代码实现
 
 
 
@@ -63,7 +65,9 @@
 1. require.js的研究(重点是js模块化实现,要从js模块化的历史开始研究，直到webpack。先研究require.js是因为webpack大而全，不适合研究模块化。)
 2. 函数式编程
 
+# 设计,建模
 
+1. 领域驱动设计(domain driven design)
 
 
 # 基础（大，全，优先级高,终身）
