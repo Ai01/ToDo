@@ -2,6 +2,7 @@
 
 # now(当前在做的事情，是下面中的一项）
 1. node实现所有可以实现的ipc
+2. go in action阅读
 
 
 
@@ -19,6 +20,7 @@
 7. 图书馆管理系统(orm,mysql使用)
 8. mac古诗词桌面软件
 9. 实现react-router-redux
+10. excel数据导入
 
 
 
@@ -47,7 +49,7 @@
 19. mouse事件
 20. napajs探索
 21. storybook探索
-22. node实现所有可以实现的ipc
+22. node实现所有可以实现的ipc(40%)
 1. 看完webpack,babel和eslint的官网(99%)
 2. 理解webpack的原理(5%)
 3. react-router的原理(5%)
@@ -56,7 +58,7 @@
 6. wireshark理解网络5层模型，学会使用wireshark过滤(5%)
 7. 函数式编程和面向对象编程的比较
 8. indexDB
-9. go in action 的阅读和代码实现
+9. go in action 的阅读和代码实现(60%)
 
 
 
