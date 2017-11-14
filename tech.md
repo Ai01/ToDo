@@ -11,7 +11,7 @@
 
 # 项目(项目idea）
 
-1. google translate in terminal
+1. google translate in terminal(可以试着利用puppeteer来实现)
 2. 从不坐过站(百度定位sdk，地铁站到站提醒)
 3. 写一个自动改变网页背景色的chrome插件(10%)
 4. 写一个改变变量类型的npm包
@@ -21,6 +21,8 @@
 8. mac古诗词桌面软件
 9. 实现react-router-redux
 10. excel数据导入
+11. 程序员播客（命令行实现）
+12. 使用puppeteer去探索爬虫的新写法。利用截图来爬虫
 
 
 
@@ -59,6 +61,8 @@
 7. 函数式编程和面向对象编程的比较
 8. indexDB
 9. go in action 的阅读和代码实现(60%)
+10. sequelize学习
+11. puppetter学习
 
 
 
