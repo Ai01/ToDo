@@ -2,7 +2,6 @@
 
 # now(当前在做的事情，是下面中的一项）
 1. node实现所有可以实现的ipc
-2. go in action阅读
 
 
 
@@ -14,7 +13,7 @@
 1. google translate in terminal(可以试着利用puppeteer来实现)
 2. 从不坐过站(百度定位sdk，地铁站到站提醒)
 3. 写一个自动改变网页背景色的chrome插件(10%)
-4. 写一个改变变量类型的npm包
+4. 写一个改变变量类型的npm包(upcast)
 5. 写一个搜书的命令行工具
 6. 做一个node的股票爬虫
 7. 图书馆管理系统(orm,mysql使用)
@@ -25,6 +24,9 @@
 12. 使用puppeteer去探索爬虫的新写法。利用截图来爬虫
 13. react的生命周期可以玩出什么黑科技?
 14. vscode拼写检查插件
+15. chrome书签管理插件，可以将书签的网页截图，防止网址失效。同时将书签做的像mac app store一样来展示。（web页面为什么无法像app一样使用?）
+16. mac的听书软件
+17. 文字变成声音
 
 
 
@@ -62,7 +64,7 @@
 6. wireshark理解网络5层模型，学会使用wireshark过滤(5%)
 7. 函数式编程和面向对象编程的比较
 8. indexDB
-9. go in action 的阅读和代码实现(60%)
+9. go in action 的阅读和代码实现(90%)
 10. sequelize学习
 11. puppetter学习
 
