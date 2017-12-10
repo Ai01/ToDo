@@ -1,9 +1,9 @@
 # ToDo
 
 # now(当前在做的事情，是下面中的一项）
-1. node实现所有可以实现的ipc
-2. js实现算法
-3. typeScript学习
+2. js实现算法,整理
+3. js设计模式整理
+1. 命令行翻译工具(1.google api ,2.可以试着利用puppeteer来实现)
 
 
 
@@ -12,7 +12,6 @@
 
 # 项目(项目idea）
 
-1. google translate in terminal(可以试着利用puppeteer来实现)
 2. 从不坐过站(百度定位sdk，地铁站到站提醒)
 3. 写一个自动改变网页背景色的chrome插件(10%)
 4. 写一个改变变量类型的npm包(upcast)
@@ -37,6 +36,8 @@
 
 # 技术探索(小，新，优先级低,时间短）
 
+1. node实现所有可以实现的ipc
+3. typeScript学习
 1. jwt(25%)
 2. dotenv(50%)
 3. [reactive programming](http://blog.leapoahead.com/2016/03/02/introduction-to-reactive-programming/)
