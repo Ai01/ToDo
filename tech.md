@@ -25,8 +25,9 @@
 
 # 技术问题
 
-1. js to pdf 文件下载(知道怎么实现就可以)
-1. js to csv 文件下载(知道怎么实现就可以)
+1. gitlab自己搭建
+1. webRTC
+1. js对二进制数据的操作（typeArray,blob等）
 1. pm2
 1. 权限系统怎么做（包括登录，页面入口，后端的接口设计）
 1. login中对cookie和session的前后端的全部实现。
@@ -96,3 +97,5 @@
 
 # done
 
+1. js to pdf 文件下载(知道怎么实现就可以)
+1. js to csv 文件下载(知道怎么实现就可以)
